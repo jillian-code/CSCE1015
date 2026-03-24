@@ -1,2 +1,4 @@
-# CSCE1015 - Hochstetler
-Assignment repository for UNT CSCE1015
+## EUID
+jmb1110
+## Favorite Professor
+Professor Iaia
